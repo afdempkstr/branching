@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace branching
 {
     class Program
